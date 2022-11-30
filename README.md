@@ -115,12 +115,6 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 ## Kiel - Program for LED blinking ON  and  OFF (blinking)
 
-
-```
-DONE BY: PRANAVE B
-REG  NO: 212221240040
-
-```
 ```
 
 #include <lpc214x.h>
